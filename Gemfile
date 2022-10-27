@@ -74,3 +74,5 @@ end
 gem "devise", "~> 4.8"
 
 gem "noticed", "~> 1.6"
+
+gem "cable_ready", "~> 4.5"
